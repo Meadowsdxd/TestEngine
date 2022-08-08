@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name = "app_name"> Multimeter </string>
+    <string name = "title_activity_start"> Multimeter </string>
+    <string name = "navigation_drawer_open"> Open navigation drawer </string>
+    <string name = "navigation_drawer_close"> Close navigation drawer </string>
+    <string name = "nav_header_title"> Android Studio </string>
+    <string name = "nav_header_subtitle"> android.studio@android.com </string>
+    <string name = "nav_header_desc"> Navigation header </string>
+    <string name = "action_settings"> Settings </string>
+    <string name = "action_name"> Engine: </string>
+    <string name = "action_I1"> Get the value of the first coil </string>
+    <string name = "action_I2"> Get the value of the second coil </string>
+    <string name = "action_I3"> Get the value of the third coil </string>
+    <string name = "action_Read"> Read data </string>
+    <string name = "action_Save"> Save data </string>
+    <string name = "action_Take"> Get data </string>
+    <string name = "action_InfoShow"> Select the device to connect </string>
+    <string name = "action_Admin"> Administrator Authorization Menu </string>
+    <string name = "action_AdmiLog"> Enter login </string>
+    <string name = "action_AdminPass"> Enter the password </string>
+    <string name = "Delete_Name"> Engine Delete Window (click the button) </string>
+    <string name="DeleteС_Name"> Select engine window to delete </string>
+    <string name = "Add_dvig"> Add engine window </string>
+    <string name="Choiсe_dvig"> Engine selection window </string>
+    <string name = "menu_home"> Home </string>
+    <string name = "menu_gallery"> Gallery </string>
+    <string name = "menu_slideshow"> Slideshow </string>
+    <string name = "Action_Sila"> Current = "</string>
+    <string name = "Action_Om"> Resistance = "</string>
+    <string name = "Action_OmOb"> Winding resistance = "</string>
+    <string name = "Action_KVT"> Power to kW = "</string>
+    <string name = "Action_Oborot"> Rotate per minute = "</string>
+    <string name = "Action_KKD"> Efficiency in% = "</string>
+    <string name = "Action_KOEF"> Power factor = "</string>
+    <string name = "Action_Luft"> Percentage deviation = "</string>
+    <string name = "Action_OmNorm"> Standard winding resistance = "</string>
+    <string name = "Action_OLD"> Obsolete engine name = "</string>
+    <string name = "Action_True"> is included in the percentage of backlash, the deviation is - "</string>
+    <string name = "Action_False"> is not included in the percentage of backlash, the deviation is - "</string>
+    <string name = "Action_Or">  Om or "</string>
+    <string name = "Action_First"> First winding "</string>
+    <string name = "Action_Second"> Second winding "</string>
+    <string name = "Action_Third"> Third winding "</string>
+    <string name = "Action_Dop"> Complete Information "</string>
+    <string name="Action_check">Empty field detected !!</string>
+</resources>

@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Multimetr</string>
+    <string name="title_activity_start">Multimetr</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_name">Двигатель:</string>
+    <string name="action_I1">Получить значение первой катушки</string>
+    <string name="action_I2">Получить значение второй катушки</string>
+    <string name="action_I3">Получить значение третьей катушки</string>
+    <string name="action_Read">Прочитать данные</string>
+    <string name="action_Save">Сохранить данные</string>
+    <string name="action_Take">Получить данные</string>
+    <string name="action_InfoShow">Выберите устройство для подключения</string>
+    <string name="action_Admin">Меню авторизации Администратора</string>
+    <string name="action_AdmiLog">Введите логин</string>
+    <string name="action_AdminPass">Введите пароль</string>
+    <string name="Delete_Name">Окно удаления двигателя(нажмите на кнопку)</string>
+    <string name="DeleteС_Name">Окно выбора двигателя для удаления</string>
+    <string name="Add_dvig">Окно добавления двигателя</string>
+    <string name="Choiсe_dvig">Окно выбора двигателя</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name = "Action_Sila"> Сила тока = "</string>
+    <string name = "Action_Om"> Сопротивление = "</string>
+    <string name = "Action_OmOb"> Сопротивление обмоток = "</string>
+    <string name = "Action_KVT"> Мощность в кВт = "</string>
+    <string name = "Action_Oborot"> Обороты в минуту = "</string>
+    <string name = "Action_KKD"> КПД в % = "</string>
+    <string name = "Action_KOEF"> Коэффициент мощности = "</string>
+    <string name = "Action_Luft"> Процент отклонения от нормы = "</string>
+    <string name = "Action_OmNorm"> Сопротивление обмотки по стандарту = "</string>
+    <string name = "Action_OLD"> Устаревшее название двигателя = "</string>
+    <string name = "Action_True"> входит в процент люфта , отклонение составляет - "</string>
+    <string name = "Action_False"> не входит в процент люфта , отклонение составляет - "</string>
+    <string name="Action_Or">  Om или "</string>
+    <string name="Action_First"> Первая обмотка "</string>
+    <string name="Action_Second"> Вторая обмотка "</string>
+    <string name="Action_Third">Третья обмотка "</string>
+    <string name="Action_Dop">Полная информация "</string>
+    <string name="Action_check">Обнаружено пустое поле !!"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
